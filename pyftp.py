@@ -13,7 +13,7 @@ try:
     USER = str(sys.argv[2])
     PASS = str(sys.argv[3])
 except:
-    print(f'{r}Error\n\tUse: \t python3', sys.argv[0], '{ip} {user} {pass}'); exit()
+    print(f'{r}Error\n\tUse: \t python3', sys.argv[0], '{ip_address} {username} {password}'); exit()
 try:
     ftp = FTP()
     ftp.connect(IP, 21)
