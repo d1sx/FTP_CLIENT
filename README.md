@@ -1,8 +1,7 @@
 
 # FTP_CLIENT
-An ftp client made in python using the ftplib library
-
-   [![dcode.gif](https://thumbs.gfycat.com/PracticalHomelyKawala-max-1mb.gif)](https://thumbs.gfycat.com/PracticalHomelyKawala-max-1mb.gif)
+An ftp client made in python using the ftplib library<br>
+   <img src="https://thumbs.gfycat.com/PracticalHomelyKawala-max-1mb.gif" width="700">
 
 # Installation
 ```bash
